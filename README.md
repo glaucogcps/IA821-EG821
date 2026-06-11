@@ -71,6 +71,16 @@ As trajetórias individuais e a média demonstram a convergência para a referê
 
 ---
 
+## Referências
+[1] S. K. Pradhan and R. Singh, “Nonlinear control of a magnetic levitation system using feedback linearization,” in 2014 IEEE International Conference on Advanced Communications, Control and Computing Technologies, 2014, pp. 152–156.
+[2] S. D. Umans, M´aquinas el´etricas de Fitzgerald e Kingsley, 7th ed. Porto Alegre: AMGH, 2014, traduc¸ ˜ao de Anat´olio Laschuk.
+[3] H. K. Khalil, Nonlinear Control. Pearson, 2015.
+[4] G. F. Franklin, J. D. Powell, and A. Emami-Naeini, Sistemas de controle para engenharia, 6th ed. Porto Alegre: Bookman, 2013, tradução de Fernando de Oliveira Souza.
+[5] M. Rubagotti, A. Estrada, F. Castanos, A. Ferrara, and L. Fridman, “Integral sliding mode control for nonlinear systems with matched and unmatched perturbations,” IEEE Transactions on Automatic Control, vol. 56, no. 11, pp. 2699–2704, 2011.
+[6] Y. Pan, C. Yang, L. Pan, and H. Yu, “Integral sliding mode control: Performance, modification, and improvement,” IEEE Transactions on Industrial Informatics, vol. 14, no. 7, pp. 3087–3096, 2018
+
+---
+
 ## 📧 Contato
 **Glauco C. P. Soares**  
 Faculdade de Engenharia Elétrica e de Computação (FEEC) - UNICAMP  
